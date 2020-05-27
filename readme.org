@@ -1,4 +1,4 @@
-*Liquid Config
+* Liquid Config
 ** Included:
 1) batteries
 2) A very simple timesheet tracker (to someday be it's own repo.
@@ -11,8 +11,8 @@
 5) (happily?) emacs-lisp
 ** How to use it:
 
-#+BEGIN-SRC bash:
+#+BEGIN_SRC bash
 git clone https://github.com/acgollapalli/liquid-config ~/.liq.d
 cd ~/liq.d/ && git pull https://github.com/mogenslund/liquid.git
 echo "alias liquid='cd ~/.liq.d && clj -m core'" >> ~/.bash_aliases
-#+END-SRC 
+#+END_SRC 
