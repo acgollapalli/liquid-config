@@ -1,0 +1,18 @@
+*Liquid Config
+** Included:
+1) batteries
+2) A very simple timesheet tracker (to someday be it's own repo.
+3) Happiness and Joy (peace and goodwill to men).
+** Not included:
+1) org-mode (yet? maybe)
+2) a TODO list
+3) a way to create notes and link them together in clojure.
+4) Exports to markdown or html or LaTEX like in org-mode
+5) (happily?) emacs-lisp
+** How to use it:
+
+#+BEGIN-SRC bash:
+git clone https://github.com/acgollapalli/liquid-config ~/.liq.d
+cd ~/liq.d/ && git pull https://github.com/mogenslund/liquid.git
+echo "alias liquid='cd ~/.liq.d && clj -m core'" >> ~/.bash_aliases
+#+END-SRC 
