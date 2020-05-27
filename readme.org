@@ -9,8 +9,8 @@
 3) a way to create notes and link them together in clojure.
 4) Exports to markdown or html or LaTEX like in org-mode
 5) (happily?) emacs-lisp
-** How to use it:
-
+6) clojure (you'll need to install the clj command-line utils, which are easily available in your favorite package manager)
+** How to use it (linux):
 #+BEGIN_SRC bash
 git clone https://github.com/acgollapalli/liquid-config ~/.liq.d
 cd ~/liq.d/ && git pull https://github.com/mogenslund/liquid.git
