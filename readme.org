@@ -1,4 +1,5 @@
 * Liquid Config
+This is how I set up liquid (a clojure editor). This is not how /you/ need to set up liquid, but it's how I do it.
 ** Included:
 1) batteries
 2) A very simple timesheet tracker (to someday be it's own repo).
