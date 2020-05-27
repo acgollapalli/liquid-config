@@ -1,7 +1,7 @@
 * Liquid Config
 ** Included:
 1) batteries
-2) A very simple timesheet tracker (to someday be it's own repo.
+2) A very simple timesheet tracker (to someday be it's own repo).
 3) Happiness and Joy (peace and goodwill to men).
 ** Not included:
 1) org-mode (yet? maybe)
