@@ -1,0 +1,2 @@
+{:deps {mogenslund/liquid {:local/root "liquid/"}
+        timesheet {:local/root "timesheet/"}}}
